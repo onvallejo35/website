@@ -1,12 +1,38 @@
 
 @import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@700;800&display=swap');
 
+* {
+    mar
+    }
+header {
+    height: 50 vh;
+    width: 50 vw;
+    }
 body {
+    background-color: #edf7ff;
     font-family: 'MuseoModerno', cursive;
-}
+    margin-left: 50px;
+    margin-right: 890px;
+
+    }
 h1 {
+    font-size: 88pt;
     color: #0a2ff1;
-}
+    }
 h2 {
+    font-size: 39pt;
     color:#0a2ff1;
+    }
+#parrafo1 {
+            font-size: 25pt;
+            color: #04146c;
+            align left: ;
 }
+#h3   {
+            color: #0a2ff1;
+            }
+ul  {
+    color: #04146c;
+    font-family: 'Asap', sans-serif;
+    font-family: 'MuseoModerno', cursive;
+    }
