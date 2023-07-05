@@ -1,38 +1,57 @@
 
 @import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@700;800&display=swap');
 
-* {
-    mar
-    }
-header {
-    height: 50 vh;
-    width: 50 vw;
-    }
+. {
+        width: 200px;
+        height: 100vh;
+}
+
 body {
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
     background-color: #edf7ff;
     font-family: 'MuseoModerno', cursive;
-    margin-left: 50px;
-    margin-right: 890px;
+     }
 
-    }
 h1 {
+    padding-bottom: 1px;
+    margin-top: 0;   
+    margin-bottom: 0;
     font-size: 88pt;
     color: #0a2ff1;
     }
 h2 {
+    margin-top: 0;
+    padding-top: 0;
     font-size: 39pt;
     color:#0a2ff1;
     }
 #parrafo1 {
             font-size: 25pt;
             color: #04146c;
-            align left: ;
+            font-family: Geneva;
+            margin-left: 2%;
 }
 #h3   {
-            color: #0a2ff1;
+    font-size: 36pt;
+    margin-left: 30px;
+    color: #0a2ff1;
             }
 ul  {
+    margin: ;
+    font-size: 25pt;
     color: #04146c;
     font-family: 'Asap', sans-serif;
     font-family: 'MuseoModerno', cursive;
+    margin-left: 0%;
+    }
+.ultimoparrafo {
+    margin-top: 1px;
+    margin-left: -100px;
+    margin-bottom: 1px;
+    font-family: 'Asap', sans-serif;
+    font-family: 'MuseoModerno', cursive;
+    font-size: 149pt;
+    color: #8a9af1;
     }
